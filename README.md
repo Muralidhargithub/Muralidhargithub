@@ -17,19 +17,31 @@ Welcome to my GitHub profile! I'm a passionate IOS developer with a strong focus
 
 Here are some of my featured projects:
 
+### 🔐 [LoginPage](https://github.com/Muralidhargithub/LoginPage)
+- A simple yet elegant login page built with Swift.
+- Features form validation, dynamic error handling, and seamless navigation.
+
+### 🎵 [SpotifyUI](https://github.com/Muralidhargithub/SpotifyUI)
+- A visually stunning clone of the Spotify UI using Swift and UIKit.
+- Implements responsive layouts and navigation patterns inspired by the Spotify app.
+
 ### 📱 [FoodApp](https://github.com/Muralidhargithub/FoodApp)
 - A user-friendly app showcasing dynamic food groups and items.
 - Built with **UIKit**, **MVVM Architecture**, and **URLSession**.
 - Implements image caching for performance optimization.
+
+### 📸 [PhotoAppUsing-CollectionView](https://github.com/Muralidhargithub/PhotoAppUsing-CollectionView)
+- A dynamic photo gallery app using `UICollectionView` to display images in a grid.
+- Implements custom collection view cells for smooth scrolling and enhanced UX.
 
 ### 📰 [NewsSphereApp_MVVM](https://github.com/Muralidhargithub/NewsSphereApp_MVVM)
 - A modern news application fetching real-time news using an API.
 - Features **MVVM Architecture**, **search functionality**, and **custom table views**.
 - Focused on clean and scalable code practices.
 
-### 📸 [PhotoAppUsing-CollectionView](https://github.com/Muralidhargithub/PhotoAppUsing-CollectionView)
-- A dynamic photo gallery app using `UICollectionView` to display images in a grid.
-- Implements custom collection view cells for smooth scrolling and enhanced UX.
+### 🚗 [CarWorkout](https://github.com/Muralidhargithub/CarWorkout)
+- A utility app for managing car workout and maintenance schedules.
+- Built with a focus on clean UI and robust backend integration.
 
 ---
 
